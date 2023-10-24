@@ -10,3 +10,9 @@ might help with the notation for mathematical expressions.
 $G_1=(V_1 , E_1)$ is isomorphic to $G_2 = (V_2, E_2)$ if there exists a
 one-to-one and onto function (bijection) $f: V_1 \rightarrow V_2$ such that $(u,v)
 \in E_1$ iff $(f(u),f(v)) \in E_2$.
+
+# Question:  
+For all of the isomorphism proofs, how formal would you like our answer to be? For instance, should it be like the O(log) proof  
+where we have to extensively use the original definition in a mathematical sense, or are we allowed to simply talk about our  
+reasoning while referring back to the isomorphism definition stated above in order to back up our ideas? Thank you in advance for  
+your help in this question.
